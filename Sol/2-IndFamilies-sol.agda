@@ -1,5 +1,5 @@
 {-# OPTIONS --allow-unsolved-metas #-}
-module 2-IndFamilies where
+module 2-IndFamilies-sol where
 
   {- Courtesy of Conor McBride -}
 

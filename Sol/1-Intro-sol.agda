@@ -1,4 +1,4 @@
-module 1-Intro where
+module 1-Intro-sol where
 
   {- Courtesy of Conor McBride -}
 
